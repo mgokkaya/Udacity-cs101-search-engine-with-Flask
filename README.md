@@ -47,6 +47,6 @@ A Simple Example
 Run Code 
 --------
 
-    $ cd Udacity-cs101-search-engine-with-Flask
+    $ cd Udacity-cs101-search-engine-with-Flask/src
     $ python app.py
      * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
