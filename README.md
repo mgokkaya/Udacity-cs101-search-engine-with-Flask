@@ -23,7 +23,6 @@ Installing
 
 Install and update using `pip`_:
 
-.. code-block:: text
 
     pip install -U Flask
 
@@ -31,7 +30,6 @@ Install and update using `pip`_:
 A Simple Example
 ----------------
 
-.. code-block:: python
 
     from flask import Flask
 
@@ -41,7 +39,6 @@ A Simple Example
     def hello():
         return 'Hello, World!'
 
-.. code-block:: text
 
     $ env FLASK_APP=hello.py flask run
      * Serving Flask app "hello"
@@ -49,7 +46,6 @@ A Simple Example
 
 Run Code 
 --------
-.. code-block:: text
 
     $ cd Udacity-cs101-search-engine-with-Flask
     $ python app.py
